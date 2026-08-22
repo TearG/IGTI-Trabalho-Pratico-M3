@@ -1,2 +1,15 @@
 node_modules
 
+
+node_modules/
+dist/
+build/
+.env
+coverage/
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+coverage/
+.DS_Store
